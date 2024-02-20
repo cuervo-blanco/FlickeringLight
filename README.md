@@ -1,4 +1,4 @@
-# OSHO Gourishankar Meditation Flickering Light Program
+# OSHO Gourishankar Meditation Flickering Light
 
 ## Introduction
 This program is designed to facilitate the second stage of the OSHO Gourishankar Meditation by providing a flickering light emitted from the terminal emulator at a frequency of 490 beats per minute (bpm). The purpose of this flickering light is to aid in achieving the meditative state described in the OSHO Gourishankar Meditation technique.
