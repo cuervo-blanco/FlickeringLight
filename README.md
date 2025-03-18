@@ -3,9 +3,6 @@
 ## Introduction
 This program is designed to facilitate the second stage of the OSHO Gourishankar Meditation by providing a flickering light emitted from the terminal emulator at a frequency of 490 beats per minute (bpm). The purpose of this flickering light is to aid in achieving the meditative state described in the OSHO Gourishankar Meditation technique.
 
-## Purpose of the Flickering Light
-During the second stage of the meditation, participants are instructed to return to normal breathing and with a gentle gaze, look at a flashing blue light. This stage aims to help participants reach a deeper level of meditation through the use of visual stimuli. The flickering light from this program is designed to synchronize with the rhythmic beat that is seven times the normal heartbeat, as mentioned in the meditation's guidelines. This synchronization helps in enhancing the meditative experience, making it possible to achieve the intended "high" state, akin to feeling as high as Gourishankar, Mt. Everest.
-
 ## Usage
 1. Ensure your terminal emulator is capable of running C++ programs.
 2. Execute the program before starting the second stage of the OSHO Gourishankar Meditation.
